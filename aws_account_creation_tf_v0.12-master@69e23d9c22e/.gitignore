@@ -1,0 +1,8 @@
+# Ignored files
+
+*.tfstate
+*.terraform
+*.tfstate.backup
+*.terragrunt-cache/
+*.py
+sample*
